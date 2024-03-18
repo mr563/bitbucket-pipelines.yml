@@ -1,4 +1,3 @@
-# bitbucket-pipelines.yml
 image:
 name:node:18
 # Add a code linting step to check your app’s code for common errors:
